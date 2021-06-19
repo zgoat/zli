@@ -1,4 +1,4 @@
-// +build !no_term
+// +build never_build_this
 
 package zli
 
